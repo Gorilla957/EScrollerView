@@ -1,10 +1,12 @@
 EScrollerView
 =============
 
-一个可以自动滚动的跑马灯（幻灯）
+
+一个可以自动滚动的跑马灯（幻灯、图片滚动）
 
 作者博客：http://www.cnblogs.com/bandy/
 
+![image](https://raw.githubusercontent.com/jxd001/EScrollerView/master/Untitled3.gif )
 #Step 1
 
 <pre>
